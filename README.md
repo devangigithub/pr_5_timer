@@ -1,1 +1,4 @@
-# pr_5_timer
+# Pr 5 Timer
+# 🕢 Clock ⏰ #
+# ⏱️ Stop Watch #
+#  ⌛ Timer ⏳ # 
