@@ -2,7 +2,6 @@
 # 🕢 Clock ⏰ #
 ![Screenshot_2024-08-05-19-24-09-90_d072f8d2f247891d7a87cc0e9fb9a542](https://github.com/user-attachments/assets/604c1883-769f-43bd-afd7-9533ce5cd41a)
 ![Screenshot_2024-08-05-19-24-16-12_d072f8d2f247891d7a87cc0e9fb9a542](https://github.com/user-attachments/assets/f4f1c4cd-2322-4307-870f-c69581d55ae2)
-![Screenshot_2024-08-05-19-38-35-52_d072f8d2f247891d7a87cc0e9fb9a542](https://github.com/user-attachments/assets/c164af12-b6df-4e77-b3d9-8f0564d59c16)
 ![Screenshot_2024-08-05-19-38-41-79_d072f8d2f247891d7a87cc0e9fb9a542](https://github.com/user-attachments/assets/b4229b66-b03b-4d4b-a089-fb9de4de2cf7)
 
 # ⏱️ Stop Watch #
