@@ -1,4 +1,4 @@
-# pr_5_TIMER #
+# PR_5_TIMER #
 # 🕢 Clock(Home Page) ⏰ #
 ![Screenshot_2024-08-05-19-24-09-90_d072f8d2f247891d7a87cc0e9fb9a542](https://github.com/user-attachments/assets/b6ffbb7a-1ac6-40b4-bcca-2d6d8a5ac1f8)
 ![Screenshot_2024-08-05-19-24-16-12_d072f8d2f247891d7a87cc0e9fb9a542](https://github.com/user-attachments/assets/89afd51e-685e-4054-b9b3-b16d40488738)
